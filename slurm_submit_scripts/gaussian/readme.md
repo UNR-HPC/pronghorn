@@ -1,6 +1,6 @@
 ### This script is written to take a Gaussian input file as an argument.  It will dump its output into the directory from which it was invoked.  The following are some use cases for this script:
 
-### Notes:
+## Notes:
 * This Script will run 16 core jobs on up to 112GB of memory
 * Please ensure your input files are set for 16 cores using %NProcShared=16.
 * CPU affinity cannot be used with this script at this time.
