@@ -42,7 +42,7 @@
 # Load the unr-rc module to gain access to the singularity container module
 module load unr-rc
 # Load the singularity container module
-module load singularity/2.4.2
+module load singularity
 
 # Error if the Gaussian input file does not exist or was not specified. Check stderr file for 
 # error.
